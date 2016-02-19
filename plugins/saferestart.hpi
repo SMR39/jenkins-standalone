@@ -3,7 +3,7 @@
 <title>302 Found</title>
 </head><body>
 <h1>Found</h1>
-<p>The document has moved <a href="http://mirrors.jenkins-ci.org/war/1.648/jenkins.war">here</a>.</p>
+<p>The document has moved <a href="http://mirrors.jenkins-ci.org/plugins/saferestart/0.3/saferestart.hpi">here</a>.</p>
 <hr>
 <address>Apache/2.2.14 (Ubuntu) Server at updates.jenkins-ci.org Port 443</address>
 </body></html>
